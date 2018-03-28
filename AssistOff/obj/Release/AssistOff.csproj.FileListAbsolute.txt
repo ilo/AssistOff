@@ -1,6 +1,0 @@
-C:\Users\ilo\Documents\GitHub\AssistOff\AssistOff\bin\Release\AssistOff.exe.config
-C:\Users\ilo\Documents\GitHub\AssistOff\AssistOff\bin\Release\AssistOff.exe
-C:\Users\ilo\Documents\GitHub\AssistOff\AssistOff\bin\Release\AssistOff.pdb
-C:\Users\ilo\Documents\GitHub\AssistOff\AssistOff\obj\Release\AssistOff.csprojResolveAssemblyReference.cache
-C:\Users\ilo\Documents\GitHub\AssistOff\AssistOff\obj\Release\AssistOff.exe
-C:\Users\ilo\Documents\GitHub\AssistOff\AssistOff\obj\Release\AssistOff.pdb
